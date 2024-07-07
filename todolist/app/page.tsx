@@ -1,0 +1,14 @@
+import TodoList from "@/components/TodoList";
+import { Text } from "@chakra-ui/react";
+
+
+export default function Home() {
+  return (
+    <>
+      <Text> Test </Text>
+      <TodoList/>
+    </>
+    
+    
+  )
+}
